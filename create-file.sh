@@ -2,7 +2,7 @@
 
 # Author Nachintoch, teshanatsch@gmail.com
 # Script que crea un archivo nuevo C para un proyecto
-# Version 1.0, agosto 2013
+# Version 1.1, febrero 2014
 
 # cómo usar. Llame el script desde la conola y provéale de los siguientes
 # parametros en el orden de aparición:

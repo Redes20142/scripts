@@ -2,7 +2,7 @@
 
 # Author Nachintoch, teshanatsch@gmail.com
 # Script que genera los directorios estandar para un proyecto de programación
-# Version 1.0, agosto 2013
+# Version 1.1, febrero 2014
 
 # copiar el nombre del programa, proyecto; lo que sea y crear la siguiente
 # estructura:
