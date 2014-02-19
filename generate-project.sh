@@ -86,10 +86,10 @@ else
     echo "" >> $1/README.txt;
     echo "Para compilar el código fuente que se proporciona, basta con ingresar el comando" >> $1/README.txt;
     echo "'make':" >> $1/README.txt;
-    echo "\$"$1" make" >> $1/README.txt;
+    echo $1"\$ make" >> $1/README.txt;
     echo "" >> $1/README.txt;
     echo "Para ejecutar el programa; ingresamos 'bin/"$1"':" >> $1/README.txt;
-    echo "\$"$1" bin/"$1 >> $1/README.txt;
+    echo $1"\$ bin/"$1 >> $1/README.txt;
     echo "" >> $1/README.txt;
     echo "SOBRE EL DESPLIEGE EN PANTALLA" >> $1/README.txt;
     echo "" >> $1/README.txt;
