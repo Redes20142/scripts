@@ -64,7 +64,7 @@ then
         echo $1"/src/"$2".c created succesfully";
         echo "Updating "$1"/Makefile ...";
         echo $2".o :" >> $1/Makefile;
-        echo "	\$(CC) \$(CFLAGS) src/"$2".c -o lib/"$2".o" >> $1/Makefile;
+        echo "	\$(CC) \$(CFLAGS) \$(G) src/"$2".c -o lib/"$2".o" >> $1/Makefile;
         echo "" >> $1/Makefile;
         echo $1"/Makefile updated";
         echo "File created";
