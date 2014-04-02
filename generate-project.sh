@@ -75,6 +75,7 @@ else
     echo "REDES DE COMPUTADORAS 2014-1" >> $1/README.txt;
     echo "Manuel Ignacio Castillo López; 3-0801743-8" >> $1/README.txt;
     echo "Mijail Gutiérrez Valdéz; 3-423250-3." >> $1/README.txt;
+    echo "José Carlos León Pérez" >> $1/README.txt;
     echo "Profr. José Luis Torres Rodríguez" >> $1/README.txt;
     echo "Ayudante de laboratorio: Luis Enrique Serrano Gutiérrez" >> $1/README.txt;
     echo "" >> $1/README.txt;
@@ -110,6 +111,8 @@ else
     echo " * manuel_castillo_cc@ciencias.unam.mx" >> $1/src/main.c;
     echo " * Autor: Mijail Gutiérrez Valdéz; 3-423250-3." >> $1/src/main.c;
     echo " * mij000@ciencias.unam.mx" >> $1/src/main.c;
+    echo " * Autor: José Carlos León Pérez; 3-423250-3." >> $1/src/main.c;
+    echo " * carlos.leon@ciencias.unam.mx" >> $1/src/main.c;
     echo " * Version 1, TODO month and year" >> $1/src/main.c;
     echo " */" >> $1/src/main.c;
     echo ""  >> $1/src/main.c;

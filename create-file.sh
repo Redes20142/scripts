@@ -56,6 +56,8 @@ then
         echo " * manuel_castillo_cc@ciencias.unam.mx" >> $1/src/$2.c;
         echo " * Autor: Mijail Gutiérrez Valdéz; 3-423250-3." >> $1/src/$2.c;
         echo " * mij000@ciencias.unam.mx" >> $1/src/$2.c;
+        echo " * Autor: José Carlos León Pérez; 3-423250-3." >> $1/src/$2.c;
+	    echo " * carlos.leon@ciencias.unam.mx" >> $1/src/$2.c;
         echo " * Version 1, TODO month and year" >> $1/src/$2.c;
         echo " */" >> $1/src/$2.c;
         echo ""  >> $1/src/$2.c;
@@ -93,6 +95,8 @@ then
         echo " * manuel_castillo_cc@ciencias.unam.mx" >> $1/include/$2.h;
         echo " * Autor: Mijail Gutiérrez Valdéz; 3-423250-3." >> $1/include/$2.h;
         echo " * mij000@ciencias.unam.mx" >> $1/include/$2.h;
+        echo " * Autor: José Carlos León Pérez; 3-423250-3." >> $1/include/$2.h;
+	    echo " * carlos.leon@ciencias.unam.mx" >> $1/include/$2.h;
         echo " * Version 1, TODO month and year" >> $1/include/$2.h;
         echo " */" >> $1/include/$2.h;
         echo ""  >> $1/include/$2.h;
